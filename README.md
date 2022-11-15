@@ -10,5 +10,6 @@ Link de estudo:
 
 * [Machine Learning Mastery - PhD.:Jason Brownlee](https://machinelearningmastery.com/a-brief-introduction-to-bert/)
 
+* [Machine Learning Mastery -  PhD.:Jason Brownlee: The Transformer Model](https://machinelearningmastery.com/the-transformer-model/)
 
 Thanks God!
