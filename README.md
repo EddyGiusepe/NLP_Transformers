@@ -12,4 +12,6 @@ Link de estudo:
 
 * [Machine Learning Mastery -  PhD.:Jason Brownlee: The Transformer Model](https://machinelearningmastery.com/the-transformer-model/)
 
+* [Training the Transformer Model](https://machinelearningmastery.com/training-the-transformer-model/)
+
 Thanks God!
