@@ -131,3 +131,5 @@ dmypy.json
 
 # Eddy
 venv_transformers/
+fine-tune_with_Transformers_and_HuggingFace/
+
