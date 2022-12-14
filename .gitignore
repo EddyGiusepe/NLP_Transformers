@@ -132,3 +132,10 @@ dmypy.json
 # Eddy
 venv_transformers/
 fine-tune_with_Transformers_and_HuggingFace/
+.vscode/
+assets/
+bin/
+PipFile
+config.json
+.isort.cfg
+.flake8
