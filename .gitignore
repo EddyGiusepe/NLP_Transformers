@@ -140,3 +140,5 @@ config.json
 .isort.cfg
 .flake8
 resources/
+results/
+flagged/
