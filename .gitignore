@@ -142,3 +142,5 @@ config.json
 resources/
 results/
 flagged/
+dataset/
+results/
