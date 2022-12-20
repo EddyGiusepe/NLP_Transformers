@@ -146,3 +146,5 @@ dataset/
 results/
 results_eddy/
 output/
+output_ner_portugues/
+output_ner_ingles/
